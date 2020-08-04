@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
- 
+ { :first_car => "jetta" }
 end
 
 def pioneer
